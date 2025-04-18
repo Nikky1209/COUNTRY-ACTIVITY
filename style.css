@@ -5,6 +5,13 @@ body{
     background:#fff;
     color:#222;
 }
+
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: #649c64;
+    color:white;
+}
 .intro {
     background-image: url(images/scenery.jpg);
     background-size: cover;
