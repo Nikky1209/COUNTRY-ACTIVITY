@@ -34,4 +34,12 @@ nav a:hover{
     border-radius: 10px;
   }
   
+  section{
+    padding: 2rem;
+  }
   
+  footer{
+    text-align: center;
+    padding: 1rem;
+    background-color: #f0f0f0;
+  }
