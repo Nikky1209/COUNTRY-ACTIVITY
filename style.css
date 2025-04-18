@@ -12,6 +12,14 @@ header{
     background-color: #649c64;
     color:white;
 }
+
+nav a{
+    margin:0 10px;
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+
 .intro {
     background-image: url(images/scenery.jpg);
     background-size: cover;
